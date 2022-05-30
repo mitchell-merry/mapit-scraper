@@ -1,0 +1,17 @@
+{
+  "name": "mapit-scraper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mitchell Merry",
+  "license": "MIT",
+  "dependencies": {
+    "bottleneck": "^2.19.5",
+    "node-fetch": "^3.1.1"
+  }
+}
